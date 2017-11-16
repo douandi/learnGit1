@@ -1,1 +1,3 @@
+set encoding utf-8
 今天我学习了git！！
+23333666哈哈哈哈哈嗝
